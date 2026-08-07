@@ -13,9 +13,9 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
-url                      : https://zhyGuGu.github.io
+url                      : https://zebhal.github.io
 baseurl                  : "/LJT-Homepage"
-repository               : "zhyGuGu/LJT-Homepage"
+repository               : "zebhal/LJT-Homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
@@ -41,7 +41,7 @@ author:
   pubmed           : 
   researchgate     : 
   scopus           : 
-  zotero           : 
+  zotero           :
 
   # Repositories and software development
   bitbucket        : 
@@ -49,7 +49,7 @@ author:
   dribbble         : 
   github           : "Vicent0205"
   kaggle           :   
-  stackoverflow    :     
+  stackoverflow    :    
 
   # Social media
   artstation       : 
@@ -121,7 +121,7 @@ staticman:
       options:
         format           : "iso8601" 
 atom_feed:
-  hide                   : false     
+  hide                   : true     
   path                   : 
 
 
