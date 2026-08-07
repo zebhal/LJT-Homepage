@@ -1,0 +1,28 @@
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="publication">
+  <p>
+    <strong><a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a></strong>
+    <br/>
+    {% if post.authors %}
+      {{ post.authors }}
+    {% elsif post.citation %}
+      {{ post.citation }}
+    {% endif %}
+    <br/>
+    {% if post.venue %}
+      <i>{{ post.venue }}</i>
+    {% endif %}
+    {% if post.date %}
+      ({{ post.date | default: "1900-01-01" | date: "%Y" }})
+    {% endif %}
+    {% if post.slidesurl %}
+      <br/>
+      <a href="{{ post.slidesurl }}">Slides</a>
+    {% endif %}
+  </p>
+</div>
