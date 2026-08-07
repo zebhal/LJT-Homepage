@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Junteng Liu",
+    "email": "jliugi@connect.ust.hk",
+    "phone": "",
+    "website": "https://zebhal.github.io/LJT-Homepage",
+    "summary": "First-year PhD candidate at HKUST NLP Group",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Hong Kong",
+      "countryCode": "HK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+      },
+      {
+        "network": "GitHub",
+        "username": "Vicent0205",
+        "url": "https://github.com/Vicent0205"
+      },
+      {
+        "network": "Twitter",
+        "username": "junteng88716710",
+        "url": "https://twitter.com/junteng88716710"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "MINIMAX",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2025-02-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Tencent WXG",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2024-06-01",
+      "endDate": "2024-09-01",
+      "summary": "Advised by Zifei Shan",
+      "highlights": []
+    },
+    {
+      "company": "Shanghai AI Lab",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+      "summary": "Advised by Prof. Yu Cheng",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hong Kong University of Science and Technology",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Shanghai Jiao Tong University",
+      "area": "Engineering",
+      "studyType": "B.Eng.",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-01",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Natural Language Processing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LLM Reasoning and Reinforcement Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hallucination in Vision-Language Models",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LLM Truthfulness and Interpretability",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2025-06-08",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "On the Perception Bottleneck of VLMs for Chart Understanding",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2025-06-08",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "On the Universal Truthfulness Hyperplane Inside LLMs",
+      "publisher": "EMNLP 2024",
+      "releaseDate": "2024-11-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
+      "publisher": "ICML 2024",
+      "releaseDate": "2024-07-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
+      "publisher": "NeurIPS 2023",
+      "releaseDate": "2023-12-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Composing Parameter-Efficient Modules with Arithmetic Operations",
+      "publisher": "NeurIPS 2023",
+      "releaseDate": "2023-12-01",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
+}
